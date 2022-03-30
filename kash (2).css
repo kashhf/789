@@ -1,0 +1,52 @@
+#RED{
+     float:left;
+     height:280px;
+     width:270px;
+     background-color:#c93030;
+}
+section > div{
+  float:left;
+  height:280px;
+     width:250px;
+     margin:4px;
+}
+button{
+     color:aliceblue;
+     font-size:20px;
+     margin-left:15px;
+      background-color: transparent;
+      border:1px solid white;
+      margin-top:15PX;
+      height:50px;
+      width: 170px;
+}
+.checked {
+     color: orange;
+   }
+   .sp>span{
+        float:left;
+     
+        margin-top:40px;
+   }
+   #ps>span{
+        
+        
+   }
+   #ps{
+        height: 170px;
+        width: 300px;
+        margin-left:20PX;
+        margin-top: 40PX;
+
+
+     }
+     #b2{
+          color:aliceblue;
+     font-size:20px;
+     margin-left:15px;
+      background-color:black;
+      border:1px solid white;
+      margin:50PX;
+      height:50px;
+      width: 150px;
+     }
